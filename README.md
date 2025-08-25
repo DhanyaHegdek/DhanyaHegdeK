@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm DhanyaHegdeK</h1>
+<h1 align="center">Hi 👋, I'm Dhanyashree Hegde</h1>
 
-- 🌱 I’m currently learning **Gen AI , Tableau ,Data Analytics**
+- 🌱 I’m currently learning **Tableau ,Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DhanyaHegdek](https://github.com/DhanyaHegdek)
 
