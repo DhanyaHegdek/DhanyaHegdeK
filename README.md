@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm DhanyaHegdeK</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanyahegdek&label=Profile%20views&color=0e75b6&style=flat" alt="dhanyahegdek" /> </p>
-
 - 🌱 I’m currently learning **Gen AI , Tableau ,Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DhanyaHegdek](https://github.com/DhanyaHegdek)
