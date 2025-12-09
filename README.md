@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhanyah514@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Ee4PvyNayVqlotz2LzCVkvUFi1rQsj1/view?usp=drivesdk](https://drive.google.com/file/d/15Ee4PvyNayVqlotz2LzCVkvUFi1rQsj1/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15Ee4PvyNayVqlotz2LzCVkvUFi1rQsj1/view?usp=drivesdk](https://drive.google.com/file/d/11bFgzIwefvBfH_UhhQKclhmzgnu-rMEL/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
