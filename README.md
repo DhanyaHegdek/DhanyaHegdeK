@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhanyashree Hegde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **PHP/Laravel**
+
+- 👩🏻‍💻Intern @ **RAAKA CLOUD SOLUTIONS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DhanyaHegdek](https://github.com/DhanyaHegdek)
 
