@@ -120,15 +120,6 @@ Cloud & Deployment     ███████████████░░░░
 </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanyahegdek&show_icons=true&locale=en&layout=compact" alt="Dhanyashree's Top Languages" />
-</p>
-
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
